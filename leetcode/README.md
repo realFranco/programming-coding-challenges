@@ -28,3 +28,4 @@ The next list is sorted by try and not by alphabetical order. That means the las
 - [297. Serialize and Deserialize Binary Tree](leetcode-297.md)
 - [200. Number of Islands](leetcode-200.md)
 - [452. Minimum Number of Arrows to Burst Balloons](leetcode-452.md)
+- [994. Rotting Oranges](leetcode-994.md)

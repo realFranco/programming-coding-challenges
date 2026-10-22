@@ -17,8 +17,3 @@ See: [Algorithms](./algorithms/README.md)
 Runner Geeks Programming Contest v1.0 was a Hackathon about software challenges ICPC friendly, located in Valencia, Carabobo, Venezuela during July 8th, 2023.
 
 See: [Runner Geeks](./runner_geeks/README.md)
-
-## Todo:
-
-- [ ] Create more test cases in order to check correct behavior;
-- [ ] Complete the rest of the challenges.
