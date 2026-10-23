@@ -1,6 +1,6 @@
 ## 200. Number of Islands
 
-[leetcode link]https://leetcode.com/problems/number-of-islands/description/)
+[leetcode link](https://leetcode.com/problems/number-of-islands/description/)
 
 ### Notes
 
