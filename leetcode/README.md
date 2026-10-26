@@ -30,3 +30,4 @@ The next list is sorted by try and not by alphabetical order. That means the las
 - [452. Minimum Number of Arrows to Burst Balloons](leetcode-452.md)
 - [994. Rotting Oranges](leetcode-994.md)
 - [417. Pacific Atlantic Water Flow](leetcode-417.md)
+- [118. Pascal's Triangle](leetcode-118.md)
