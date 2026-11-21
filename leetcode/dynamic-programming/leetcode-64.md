@@ -10,7 +10,7 @@ i took this challenge (i can classified as Medium-Easy) to keep adding more foun
 
 see my own notes using a deck:
 
-[deck](../algorithms/dynamic-programming/leetcode-64-oxford-deck.pdf).
+[LeetCode 64 - Oxford deck (PDF)](../../algorithms/dynamic-programming/leetcode-64-oxford-deck.pdf).
 
 ### Notes
 
