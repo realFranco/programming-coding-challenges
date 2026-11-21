@@ -4,8 +4,17 @@
 
 ### Notes
 
-### Source Code (watch iif we can't recreate the solution)
+[youtube link](https://www.youtube.com/watch?v=RORuwHiblPc) (thanks Tushar !, was an interesting
+solution).
 
+this particular leetcode is not optimal for technical interviews as must be done using an
+"optimal-way" there is no room for discuss "less optimal" solution
+
+another website that i found interesting to is this one:
+
+[algodaily - Test Justification](https://algodaily.com/challenges/text-justification).
+
+### Source Code (watch iif we can't recreate the solution)
 
 <details>
     <summary>Solution </summary>
