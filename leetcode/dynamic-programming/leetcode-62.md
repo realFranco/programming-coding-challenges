@@ -21,7 +21,7 @@ tackle this problem
 
 [YouTube link](https://youtu.be/Hdr64lKQ3e4?si=jwCGc959U4oZVoX5).
 
-similar to [LeetCode 64](.leetcode-64.md)
+similar to [LeetCode 64](./leetcode-64.md)
 
 ### Source Code (watch iif we can't recreate the solution)
 
