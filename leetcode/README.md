@@ -31,3 +31,4 @@ The next list is sorted by try and not by alphabetical order. That means the las
 - [994. Rotting Oranges](leetcode-994.md)
 - [417. Pacific Atlantic Water Flow](leetcode-417.md)
 - [118. Pascal's Triangle](leetcode-118.md)
+- [347. Top K Frequent Elements](leetcode-347.md)
