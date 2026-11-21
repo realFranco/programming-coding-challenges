@@ -1,6 +1,9 @@
 ## Leetcode
 
-Solving challenges from [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/).
+### Favorite lists:
+
+- [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
+- [Dynamic Programming](https://leetcode.com/problem-list/dynamic-programming/)
 
 Several files located inside this directory will contain leetcode challenges alongside:
 
