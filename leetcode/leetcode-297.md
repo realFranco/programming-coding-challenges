@@ -1,6 +1,13 @@
 ## 297. Serialize and Deserialize Binary Tree
 
-## Source code
+[leetcode link](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/).
+
+### Notes
+
+- missing notes, but i remember that the operations we apply on the serialization part must be
+"undone" at the deserialization part
+
+### Source Code (watch if we can't recreate the solution)
 
 ```python
 # Definition for a binary tree node.
